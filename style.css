@@ -1,0 +1,20 @@
+.box{
+    height: 50px;
+    width: 50px;
+    background-color: #e3e3e3;
+    border-radius: 2px;
+    margin: 5px;
+}
+#main{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    flex-wrap: wrap;
+    margin-bottom: 10%;
+    
+}
+
+.body{
+    background-color: blue;
+    margin-right: 85%;
+}
